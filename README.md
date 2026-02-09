@@ -1,25 +1,24 @@
-<h1>Hi, I'm Eric! 
+# Hi, I'm Eric 🔐
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+**Security-focused infrastructure engineer** | SIEM & threat detection | Container & Virtualization
 
+## 🎯 What I Do
+- SIEM deployment & threat detection (Wazuh, 100+ agent deployments)
+- Infrastructure automation (Docker, Proxmox)
+- Cloud security, compliance (HIPAA, NIST), incident response
 
-<h2> 🤳 Connect with me:</h2>
+## 🛠️ Tech Stack
+`Docker` `Proxmox` `Wazuh` `Python` `Linux` `Windows` `SQL` `VPN` `Elasticsearch`
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 📌 Featured Projects
+- **[homelab-media-stack](https://github.com/ericnewell27/homelab-media-stack)** — Self-hosted media automation with Proxmox & VPN
+- **[wazuh-siem-setup](https://github.com/ericnewell27/wazuh-siem-setup)** — Enterprise SIEM deployment for 100+ endpoints
 
-[linkedin]: https://linkedin.com/in/ericnewell
+## 🎓 Currently
+- 📚 Studying for Security+ (April 2026)
+- 🔍 Building portfolio projects
+- 🚀 Advancing into SOC/IR roles
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me
+- **LinkedIn:** [linkedin.com/in/ericnewell](https://linkedin.com/in/ericnewell)
+- **Email:** eric.newell27@gmail.com
