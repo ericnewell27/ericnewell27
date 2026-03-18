@@ -1,4 +1,4 @@
-# Hi, I'm Eric 🔐
+# Hi, I'm Eric
 
 **Security-focused infrastructure engineer** | SIEM & threat detection | Container & Virtualization
 
